@@ -1,2 +1,2 @@
 # Perlee
-Some nice Perl scripts
+Some Perl scripts
